@@ -1,0 +1,13 @@
+link para baixar o git:  https://gitforwindows.org/
+
+esse curso é uma introdução sobre o git e github
+
+temos que usar os seguintes comandos básicos:
+
+git clone -> para clonar o repositório do git para a nossa máquina
+git status -> para verificar o status da pasta
+git add . -> para adicionar todos os arquivos modificados na pasta
+git commit -m "descrição"  -> para comitar o arquivo ue foi adicionado
+git push -> para copiar os arquivos alterados para nuvem
+
+09-03-2022
